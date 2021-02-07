@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/0/6/SjECq5.jpg")
+}
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+}
+#result{
+    margin-left: 650px;
+}
+fieldset{
+    background-color: black;
+    color: white;
+}
+#result{
+    background-color: blue;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1{
+    text-align: center;
+    background: radial-gradient(black, blue);
+    color: white;
+}
